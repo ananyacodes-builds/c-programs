@@ -16,6 +16,12 @@ Topics Covered
 - Structures
 - File Handling
 
+- Programs
+- power.c
+- square.c
+- sumofdigits.c
+- votingcheck.c
+
 Goal
 
 To build strong programming fundamentals and prepare for Data Structures and Algorithms (DSA).
