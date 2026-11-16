@@ -1,3 +1,6 @@
+## About me
+Hi, I'm Ananya!
+I'm a first-year CSE student learning programming.
 C Programming
 
 Welcome to my C Programming repository!
