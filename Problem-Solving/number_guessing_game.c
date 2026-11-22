@@ -11,6 +11,10 @@ int main() {
         printf("Guess a number between 1 and 10: ");
         scanf("%d", &guess);
 
+        if(guess < 1 || guess > 10) {
+            printf("Invalid input! Please enter a number between 1 and 10.\n");
+            continue;
+        }
         attempts++;
 
         if (guess > secret) {
