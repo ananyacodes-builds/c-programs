@@ -94,6 +94,30 @@ Total Marks: 400/500
 Percentage: 80.00%
 Grade: B
 
+## About This Repository
+
+This repository contains my C programming
+practice and projects.
+
+## Programs
+
+- Calculator
+- Second Largest Element
+- Array Frequency
+
+## Skills I'm Learning
+
+- C Programming
+- Arrays and Strings
+- Functions
+- Pointers
+- Data Structures and Algorithms
+
+## Goal
+
+To improve my problem-solving skills
+and become a better programmer.
+
 Author
 
 Ananya Mishra
