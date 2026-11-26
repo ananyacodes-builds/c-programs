@@ -119,7 +119,32 @@ To improve my problem-solving skills
 and become a better programmer.
 
 Author
-
 Ananya Mishra
 
+
 Learning C Programming and building projects to improve problem-solving skills.
+📅 My Coding Journey
+
+Milestone| Status
+Started Learning C| ✅
+Built My First Calculator| ✅
+Uploaded Programs to GitHub| ✅
+Started Learning DSA| 🚀
+Building My Programming Portfolio| 🔄
+
+💡 My Coding Philosophy
+
+- Learn by doing.
+- Practice consistently.
+- Understand the logic before writing code.
+- Learn from mistakes.
+- Improve one program at a time.
+
+🔮 What's Next?
+
+- More C programming projects
+- Data Structures and Algorithms
+- Competitive Programming
+- Real-world problem solving
+
+Small steps every day lead to big improvements! 🌱
