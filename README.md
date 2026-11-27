@@ -139,6 +139,7 @@ Building My Programming Portfolio| 🔄
 - Understand the logic before writing code.
 - Learn from mistakes.
 - Improve one program at a time.
+- learning python also
 
 🔮 What's Next?
 
